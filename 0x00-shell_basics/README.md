@@ -12,4 +12,4 @@
 11-lists is a script that lists all files
 12-file_type is a script that prints a type of file
 13-symbolic_link is a script that creates a symbolic link
-14-copy-html isa script that copies all HTML files
+14-copy-html is a script that copies all HTML files
